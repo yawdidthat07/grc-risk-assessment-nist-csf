@@ -1,0 +1,4 @@
+Risk ID,Risk Description,Likelihood,Impact,Risk Rating,Mitigation Strategy,Status
+R-001,Inconsistent access reviews may lead to unauthorized access,Medium,High,High,Implement quarterly access reviews and documented approvals,Open
+R-002,Outdated security policies may cause compliance gaps,Medium,Medium,Medium,Establish annual policy review and version control,In Progress
+R-003,Incomplete audit evidence may delay audit response,Low,High,Medium,Centralize audit documentation and evidence tracking,Open
